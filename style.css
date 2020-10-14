@@ -20,12 +20,15 @@
   }
   
 
-#close-image img {
-   
-      
-    
+.close-image {
     border-radius:50% ;
 }
+
+.close-image img{
+  height: 60px;
+  padding: 20px;
+}
+
 
 #close-CSS {
     background-image: url( 'http://thinkingstiff.com/images/matt.jpg' );
