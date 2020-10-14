@@ -1,0 +1,37 @@
+.btn-primary {background-color: #2196F3;} 
+.btn-primary:hover {background: #79da0b;}
+.flexp {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .flex-item-left {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 50%;
+  }
+  
+  .flex-item-right {
+    background-color: dodgerblue;
+    padding: 10px;
+    flex: 50%;
+  }
+  
+
+#close-image img {
+   
+      
+    
+    border-radius:50% ;
+}
+
+#close-CSS {
+    background-image: url( 'http://thinkingstiff.com/images/matt.jpg' );
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
+}
+  
+  
